@@ -4,8 +4,8 @@
 This repository contains a Jupyter Notebook (`project.ipynb`) that performs correlation between threat intelligence data from **MISP** (Malware Information Sharing Platform), **Nessus Scan Reports**, and **NVD** (National Vulnerability Database). The project helps in identifying vulnerabilities associated with known threat indicators.
 
 ## **Features**
-✅ Fetches CVEs from **MISP**  
-✅ Extracts CVEs from **Nessus scan reports**  
+✅ README2 file guides you on how you can upload file to elastic search  
+✅ Projest file guides you on how you can achieve correlation without the use of siem tool
 ✅ Helps in **Threat Intelligence & Vulnerability Management**  
 
 ## **Python Code Breakdown**
