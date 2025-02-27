@@ -1,4 +1,4 @@
-# **Threat Intelligence Correlation using MISP, Nessus**
+# **Threat Intelligence Correlation using MISP, Nessus and NVD**
 
 ## **Overview**
 This repository contains a Jupyter Notebook (`project.ipynb`) that performs correlation between threat intelligence data from **MISP** (Malware Information Sharing Platform), **Nessus Scan Reports**, and **NVD** (National Vulnerability Database). The project helps in identifying vulnerabilities associated with known threat indicators.
@@ -9,6 +9,9 @@ This repository contains a Jupyter Notebook (`project.ipynb`) that performs corr
 ✅ Projest file guides you on how you can achieve correlation without the use of siem tool
 
 ✅ Misp basics file consists of basics of misp. 
+
+✅ Misp and NVd file guides you on how to achieve correlation between mis[ pand nvd using ellasticsearch. 
+
 
 ## **Project.ipynb Code Breakdown**
 This project contains three Python scripts inside the Jupyter Notebook:
