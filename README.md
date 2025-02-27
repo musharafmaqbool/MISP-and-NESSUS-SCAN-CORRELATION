@@ -10,7 +10,7 @@ This repository contains a Jupyter Notebook (`project.ipynb`) that performs corr
 
 ✅ Misp basics file consists of basics of misp. 
 
-## **Python Code Breakdown**
+## **Project.ipynb Code Breakdown**
 This project contains three Python scripts inside the Jupyter Notebook:
 
 1. **MISP CVE Extraction**:  
