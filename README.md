@@ -27,5 +27,4 @@ This project contains three Python scripts inside the Jupyter Notebook:
 ## **Installation**
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/musharafmaqbool/MISP-and-NESSUS-SCAN-CORRELATION.git
