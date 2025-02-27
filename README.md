@@ -5,7 +5,9 @@ This repository contains a Jupyter Notebook (`project.ipynb`) that performs corr
 
 ## **Features**
 ✅ README2 file guides you on how you can upload file to elastic search  
+
 ✅ Projest file guides you on how you can achieve correlation without the use of siem tool
+
 ✅ Misp basics file consists of basics of misp. 
 
 ## **Python Code Breakdown**
