@@ -1,4 +1,4 @@
-# **Threat Intelligence Correlation using MISP, Nessus*
+# **Threat Intelligence Correlation using MISP, Nessus**
 
 ## **Overview**
 This repository contains a Jupyter Notebook (`project.ipynb`) that performs correlation between threat intelligence data from **MISP** (Malware Information Sharing Platform), **Nessus Scan Reports**, and **NVD** (National Vulnerability Database). The project helps in identifying vulnerabilities associated with known threat indicators.
