@@ -10,7 +10,7 @@ This repository provides a comprehensive guide on correlating threat intelligenc
 
 ✅ Misp basics file consists of basics of misp. 
 
-✅ Misp and NVd file guides you on how to achieve correlation between mis[ pand nvd using ellasticsearch. 
+✅ Misp and NVd file guides you on how to achieve correlation between misp and nvd using ellasticsearch. 
 
 
 ## **Project.ipynb Code Breakdown**
