@@ -4,13 +4,13 @@
 This repository provides a comprehensive guide on correlating threat intelligence data from MISP (Malware Information Sharing Platform), Nessus Scan Reports, and NVD (National Vulnerability Database). It focuses on threat intelligence analysis, Elasticsearch integration, and non-SIEM-based correlation techniques to identify vulnerabilities associated with known threat indicators. The repository includes step-by-step instructions, scripts, and documentation to assist cybersecurity professionals in enhancing threat detection and vulnerability assessment.
 
 ## **Features**
-✅ README2 file guides you on how you can upload file to elastic search.  
+✅ README2 file guides you on uploading a file to Elasticsearch.  
 
-✅ Projest file guides you on how you can achieve correlation without the use of siem tool.
+✅ Project file guides you on how you can achieve correlation without the use of a SIEM tool.
 
-✅ Misp basics file consists of basics of misp. 
+✅ Misp basics file consists of basics of Misp. 
 
-✅ Misp and NVd file guides you on how to achieve correlation between misp and nvd using ellasticsearch. 
+✅ Misp and NVd file guides you on achieving correlation between misp and nvd using Elasticsearch. 
 
 
 ## **Project.ipynb Code Breakdown**
